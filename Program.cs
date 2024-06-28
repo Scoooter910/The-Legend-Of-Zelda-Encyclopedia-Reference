@@ -53,7 +53,7 @@ public class ZeldaApiClient
     //}
 
 
-
+   // Console.Clear();
 
     public static async Task<List<Monster>> GetMonsters()
     {

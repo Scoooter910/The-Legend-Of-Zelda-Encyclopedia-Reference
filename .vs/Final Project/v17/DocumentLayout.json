@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\charactermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:charactermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\charactermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:charactermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CharacterMethods.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\CharacterMethods.cs",
               "RelativeDocumentMoniker": "CharacterMethods.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "APIService.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\APIService.cs",
               "RelativeDocumentMoniker": "API\\APIService.cs",
@@ -87,12 +87,11 @@
               "RelativeToolTip": "API\\APIService.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAhwCMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:24:51.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T20:24:51.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CharacterAPIService.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\CharacterAPIService.cs",
               "RelativeDocumentMoniker": "API\\CharacterAPIService.cs",
@@ -100,12 +99,11 @@
               "RelativeToolTip": "API\\CharacterAPIService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:22:54.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T20:22:54.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IAPIService.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\IAPIService.cs",
               "RelativeDocumentMoniker": "API\\IAPIService.cs",
@@ -113,12 +111,11 @@
               "RelativeToolTip": "API\\IAPIService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:22:06.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T20:22:06.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Character.cs",
               "RelativeDocumentMoniker": "Character.cs",
@@ -126,12 +123,11 @@
               "RelativeToolTip": "Character.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAA9wA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:33:15.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T18:33:15.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Items.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Items.cs",
               "RelativeDocumentMoniker": "Items.cs",
@@ -139,12 +135,11 @@
               "RelativeToolTip": "Items.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:32:17.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T18:32:17.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Places.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Places.cs",
               "RelativeDocumentMoniker": "Places.cs",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "Places.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA5wBIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:31:56.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T18:31:56.78Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "Dungeon.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA9wBUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:31:39.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T18:31:39.839Z"
             },
             {
               "$type": "Document",
@@ -178,25 +171,37 @@
               "RelativeToolTip": "Game.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T22:29:35.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T22:29:35.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAqwGoAAAA6AAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T21:49:41.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Boss.cs",
+              "RelativeDocumentMoniker": "Boss.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Boss.cs",
+              "RelativeToolTip": "Boss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:28:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Monsters.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Monsters.cs",
               "RelativeDocumentMoniker": "Monsters.cs",
@@ -204,25 +209,11 @@
               "RelativeToolTip": "Monsters.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA5wBUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:33:50.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T18:33:50.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Boss.cs",
-              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Boss.cs",
-              "RelativeDocumentMoniker": "Boss.cs",
-              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Boss.cs",
-              "RelativeToolTip": "Boss.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T22:28:38.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Models.cs",
               "RelativeDocumentMoniker": "Models.cs",
@@ -230,8 +221,7 @@
               "RelativeToolTip": "Models.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:59:41.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T18:59:41.301Z"
             }
           ]
         }
