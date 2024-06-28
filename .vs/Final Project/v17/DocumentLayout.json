@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\charactermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:charactermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\api\\characterapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:api\\characterapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\api\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:api\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21268AA-7F0F-4B39-9650-131913D9BE9F}|Final Project.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Datum.cs",
-              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Datum.cs",
-              "RelativeDocumentMoniker": "Datum.cs",
-              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Datum.cs",
-              "RelativeToolTip": "Datum.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "DocumentIndex": 0,
+              "Title": "CharacterMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\CharacterMethods.cs",
+              "RelativeDocumentMoniker": "CharacterMethods.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\CharacterMethods.cs",
+              "RelativeToolTip": "CharacterMethods.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:41:37.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\APIService.cs",
+              "RelativeDocumentMoniker": "API\\APIService.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\APIService.cs",
+              "RelativeToolTip": "API\\APIService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:24:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\CharacterAPIService.cs",
+              "RelativeDocumentMoniker": "API\\CharacterAPIService.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\CharacterAPIService.cs",
+              "RelativeToolTip": "API\\CharacterAPIService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:22:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\IAPIService.cs",
+              "RelativeDocumentMoniker": "API\\IAPIService.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\API\\IAPIService.cs",
+              "RelativeToolTip": "API\\IAPIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:22:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:33:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:32:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Places.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Places.cs",
+              "RelativeDocumentMoniker": "Places.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Places.cs",
+              "RelativeToolTip": "Places.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:31:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Dungeon.cs",
+              "RelativeDocumentMoniker": "Dungeon.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Dungeon.cs",
+              "RelativeToolTip": "Dungeon.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:31:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T22:29:35.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Root.cs",
-              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Root.cs",
-              "RelativeDocumentMoniker": "Root.cs",
-              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Root.cs",
-              "RelativeToolTip": "Root.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAqwGoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:49:41.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Monsters.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Monsters.cs",
+              "RelativeDocumentMoniker": "Monsters.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Monsters.cs",
+              "RelativeToolTip": "Monsters.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:33:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Boss.cs",
+              "RelativeDocumentMoniker": "Boss.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Boss.cs",
+              "RelativeToolTip": "Boss.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T22:28:38.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAFAAAA",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:49:41.749Z",
+              "WhenOpened": "2024-06-28T18:59:41.301Z",
               "EditorCaption": ""
             }
           ]

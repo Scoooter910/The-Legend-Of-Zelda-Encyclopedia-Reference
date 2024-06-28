@@ -15,3 +15,4 @@ C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project\obj\Debug\net8.0\refint\Fina
 C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project\obj\Debug\net8.0\Final Project.pdb
 C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project\obj\Debug\net8.0\Final Project.genruntimeconfig.cache
 C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project\obj\Debug\net8.0\ref\Final Project.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project\obj\Debug\net8.0\Final Project.sourcelink.json
